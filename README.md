@@ -43,7 +43,7 @@ To play the Tic-Tac-Toe game against the AI, follow these steps:
 2. Run the following command:
 
 ```
-python tic_tac_toe.py
+python tic_tac_toe_AI.py
 ```
 
 3. The game will start, and you will see the empty Tic-Tac-Toe board.
